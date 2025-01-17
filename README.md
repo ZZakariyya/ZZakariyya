@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZZakariyya
-- 👀 I’m interested in Distributed Machine Learning, Deep Learning and Data Science
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Distributed Machine Learning, NLP and Computer Vision
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Kaggle, Linkedin and etc.
 - 📫 How to reach me zakariyyazakariyyali@gmail.com or https://www.linkedin.com/in/zakariyya-zakariyyali-372867214/
 
